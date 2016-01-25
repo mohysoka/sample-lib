@@ -1,0 +1,7 @@
+#RTSNG PAYMENT IGNORE
+.mvn
+mvnw
+mvnw.cmd
+
+#maven ignore
+target
